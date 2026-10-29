@@ -1,5 +1,0 @@
-Summary Report
-Total Log Size: 127 bytes
-Total Deposits: 15000
-Total Withdrawals: 30000
-Net Balance: -15000
